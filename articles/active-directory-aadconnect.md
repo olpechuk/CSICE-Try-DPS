@@ -29,7 +29,6 @@
 
 Today, users want to be able to access applications both on-premises and in the cloud.  They want to be able to do this from any device, be it a laptop, smart phone, or tablet.  In order for this to occur, you and your organization need to be able to provide a way for users to access these apps, however moving entirely to the cloud is not always an option.  
 
-<center>![What is Azure AD Connect](./media/active-directory-aadconnect/arch.png)</center>
 
 With the introduction of Azure Active Directory Connect, providing access to these apps and moving to the cloud has never been easier.  Azure AD Connect provides the following benefits:
 
@@ -37,8 +36,6 @@ With the introduction of Azure Active Directory Connect, providing access to the
 - A single tool and guided experience for connecting your on-premises directories with Azure Active Directory. Once installed the wizard deploys and configures all components required to get your directory integration up and running including sync services, password sync or AD FS, and prerequisites such as the Azure AD PowerShell module.
 
 
-
-<center>![What is Azure AD Connect](./media/active-directory-aadconnect/azuread.png)</center>
 
 
 
